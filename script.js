@@ -44,8 +44,6 @@ c) ${options[i][2]}`
     }
 }
 
-
-
 alert(`Your score is ${score} out of ${questions.length}`);
 
 if (score === 5) {
